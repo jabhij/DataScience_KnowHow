@@ -7,6 +7,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Gaussian Mixture Model](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 
 **[M]**
+  - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
   - [Mean Square Error](https://bit.ly/3wSjYmj)
 
 **[N]**
