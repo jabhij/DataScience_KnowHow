@@ -25,6 +25,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[R]**
   - [Regularization](https://www.statisticshowto.com/regularization/)
   
+**[U]**
+  - [Underfitting & Overfitting](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
+
 **[Z]**
   - [Z-Statistic](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
