@@ -9,6 +9,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[I]**
   - [IQR](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
 
+**[K]**
+  - [KNN](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
+
 **[L]**
   - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
   
