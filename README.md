@@ -9,6 +9,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[I]**
   - [IQR](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
 
+**[L]**
+  - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+  
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
   - [Mean Square Error](https://bit.ly/3wSjYmj)
