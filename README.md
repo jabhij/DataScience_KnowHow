@@ -22,6 +22,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[P]**
   - [P-Value](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
 
+**[R]**
+  - [Regularization](https://www.statisticshowto.com/regularization/)
+  
 **[Z]**
   - [Z-Statistic](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
