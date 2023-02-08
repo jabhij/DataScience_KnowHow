@@ -3,6 +3,9 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[A]**
 
+**[D]**
+  - [Decision Tree]()
+
 **[G]**
   - [Gaussian Mixture Model](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 
@@ -25,9 +28,14 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[P]**
   - [P-Value](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
+  - [PCA]()
 
 **[R]**
+  - [Random Forest]()
   - [Regularization](https://www.statisticshowto.com/regularization/)
+
+**[S]**
+  - [SVM]()
 
 **[T]**
   - [T-Test](https://www.statisticshowto.com/probability-and-statistics/t-test/)
