@@ -14,6 +14,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[L]**
   - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+  - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
