@@ -17,7 +17,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[L]**
   - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
-  - [Linear Discriminant Analysis]()
+  - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
   
 **[M]**
