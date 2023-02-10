@@ -61,6 +61,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[U]**
   - [Underfitting & Overfitting](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
 
+**[V]**
+  - [Vanishing Gradient Problem]()
+
 **[Z]**
   - [Z-Statistic](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
