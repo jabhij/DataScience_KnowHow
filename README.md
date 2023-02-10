@@ -6,6 +6,10 @@ This repository is dedicated to all the important and insightful resources (arti
 **[D]**
   - [Decision Tree]()
 
+**[E]**
+  - [EDA]()
+  - [Encoding]()
+
 **[G]**
   - [Gaussian Mixture Model](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 
@@ -18,11 +22,13 @@ This repository is dedicated to all the important and insightful resources (arti
 **[L]**
   - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
+  - [Linear Regression]()
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
   - [Mean Square Error](https://bit.ly/3wSjYmj)
+  - [Multilinear Regression]()
 
 **[N]**
   - [Naive Bayes Algorithm](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
@@ -36,6 +42,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Regularization](https://www.statisticshowto.com/regularization/)
 
 **[S]**
+  - [Supervised Machine Learning]()
   - [SVM]()
 
 **[T]**
