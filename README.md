@@ -9,6 +9,7 @@ This repository is dedicated to all the important and insightful resources (arti
 **[E]**
   - [EDA]()
   - [Encoding]()
+  - [ETL]()
 
 **[G]**
   - [Gaussian Mixture Model](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
