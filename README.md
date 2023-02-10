@@ -4,6 +4,9 @@ This repository is dedicated to all the important and insightful resources (arti
 **[A]**
   - 
 
+**[B]**
+  - [Bayes Theorm]()
+
 **[C]**
   - [Confusion Matrix]()
 
