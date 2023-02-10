@@ -41,6 +41,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[N]**
   - [Naive Bayes Algorithm](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
+  - [Neural Networks]()
 
 **[P]**
   - [P-Value](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
