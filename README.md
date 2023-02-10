@@ -9,6 +9,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[C]**
   - [Confusion Matrix]()
+  - [CNN]()
 
 **[D]**
   - [Decision Tree]()
