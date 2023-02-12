@@ -36,6 +36,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
   - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
   - [Logistic Regression (MultiClass)](https://www.youtube.com/watch?v=V8fS0T_ktn4)
+  - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
