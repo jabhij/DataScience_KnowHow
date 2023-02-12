@@ -69,7 +69,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Vanishing Gradient Problem]()
 
 **[Z]**
-  - [Z-Statistic - SHt](https://www.statisticshowto.com/probability-and-statistics/z-score/)
+  - [Z-Statistic - SHT](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
 
 
