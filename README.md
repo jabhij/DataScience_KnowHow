@@ -33,7 +33,8 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
   - [Linear Regression]()
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
-  - [Logistic Regression](https://www.youtube.com/watch?v=L_xBe7MbPwk)
+  - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
+  - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
