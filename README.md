@@ -17,16 +17,17 @@ This repository is dedicated to all the important and insightful resources (arti
   - [ETL]()
 
 **[G]**
-  - [Gaussian Mixture Model](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+  - [Gaussian Mixture Model - TDS](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 
 **[I]**
-  - [IQR](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
+  - [IQR - SHT](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
 
 **[K]**
-  - [KNN](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
+  - [KNN - DataCamp](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
 
 **[L]**
-  - [Lasso & ridge Regression](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+  - [Lasso & Ridge Regression - DataCamp](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+  - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=vaQxdBEcBzU)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
   - [Linear Regression]()
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
@@ -42,33 +43,33 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Multilinear Regression]()
 
 **[N]**
-  - [Naive Bayes Algorithm](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
+  - [Naive Bayes Algorithm - KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
   - [Neural Networks]()
 
 **[P]**
-  - [P-Value](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
+  - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
   - [PCA]()
 
 **[R]**
   - [Random Forest]()
-  - [Regularization](https://www.statisticshowto.com/regularization/)
-  - [R-Square](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
+  - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
+  - [R-Square - StatQuest](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
 
 **[S]**
   - [Supervised Machine Learning]()
   - [SVM]()
 
 **[T]**
-  - [T-Test](https://www.statisticshowto.com/probability-and-statistics/t-test/)
+  - [T-Test - SHT](https://www.statisticshowto.com/probability-and-statistics/t-test/)
 
 **[U]**
-  - [Underfitting & Overfitting](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
+  - [Underfitting & Overfitting - TDS](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
 
 **[V]**
   - [Vanishing Gradient Problem]()
 
 **[Z]**
-  - [Z-Statistic](https://www.statisticshowto.com/probability-and-statistics/z-score/)
+  - [Z-Statistic - SHt](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
 
 
