@@ -49,6 +49,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[P]**
   - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
+  - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
   - [PCA]()
 
 **[R]**
