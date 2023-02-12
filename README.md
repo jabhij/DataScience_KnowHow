@@ -27,19 +27,20 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[L]**
   - [Lasso & Ridge Regression - DataCamp](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+  - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=9lRv01HDU0s)
   - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=vaQxdBEcBzU)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
   - [Linear Regression]()
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
   - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
   - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
-  - [Logistic Regression (MultiClass)](https://www.youtube.com/watch?v=V8fS0T_ktn4)
+  - [Logistic Regression (MultiClass) - KrishNaik](https://www.youtube.com/watch?v=V8fS0T_ktn4)
   - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
   - [Maximum Liklihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
-  - [Mean Square Error](https://bit.ly/3wSjYmj)
+  - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Multilinear Regression]()
 
 **[N]**
