@@ -55,6 +55,7 @@ This repository is dedicated to all the important and insightful resources (arti
 **[R]**
   - [Random Forest]()
   - [Regularization](https://www.statisticshowto.com/regularization/)
+  - [R-Square](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
 
 **[S]**
   - [Supervised Machine Learning]()
