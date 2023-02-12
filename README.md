@@ -40,6 +40,7 @@ This repository is dedicated to all the important and insightful resources (arti
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
+  - [Maximum Liklihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
   - [Mean Square Error](https://bit.ly/3wSjYmj)
   - [Multilinear Regression]()
 
