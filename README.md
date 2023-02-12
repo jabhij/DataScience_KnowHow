@@ -29,6 +29,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Lasso & Ridge Regression - DataCamp](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
   - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=9lRv01HDU0s)
   - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=vaQxdBEcBzU)
+  - [Learning Rate](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
   - [Linear Regression]()
   - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
