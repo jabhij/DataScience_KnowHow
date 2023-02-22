@@ -5,7 +5,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Bayes Theorm]()
 
 **[C]**
-  - [Confusion Matrix]()
+  - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
   - [CNN]()
 
 **[D]**
