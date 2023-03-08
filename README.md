@@ -8,6 +8,7 @@ This repository is dedicated to all the important and insightful resources (arti
 **[C]**
   - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
   - [CNN]()
+  - [Cross Validation](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
 
 **[D]**
   - [Decision Tree]()
