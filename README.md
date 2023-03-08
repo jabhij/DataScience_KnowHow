@@ -3,6 +3,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[B]**
   - [Bayes Theorm]()
+  - [Bias Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 **[C]**
   - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
