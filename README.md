@@ -69,6 +69,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [SVM]()
 
 **[T]**
+  - [Test Statistics - CC](https://www.youtube.com/watch?v=QZ7kgmhdIwA)
   - [T-Test - SHT](https://www.statisticshowto.com/probability-and-statistics/t-test/)
   - [TSS - SHT](https://www.statisticshowto.com/residual-sum-squares/)
 
