@@ -63,6 +63,7 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
   - [ROC -  TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - [R-Square - StatQuest](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
+  - [Residual Standard Error]()
 
 **[S]**
   - [Supervised Machine Learning]()
