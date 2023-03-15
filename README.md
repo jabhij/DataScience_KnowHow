@@ -70,6 +70,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[T]**
   - [T-Test - SHT](https://www.statisticshowto.com/probability-and-statistics/t-test/)
+  - [TSS - SHT](https://www.statisticshowto.com/residual-sum-squares/)
 
 **[U]**
   - [Underfitting & Overfitting - TDS](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
