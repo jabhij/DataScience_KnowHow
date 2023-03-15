@@ -2,16 +2,16 @@
 This repository is dedicated to all the important and insightful resources (articles, videos, docs, etc) dedicated to Data Science, Machine Learning (ML), Artificial Intelligence and all the other domains related to these. Feel free to come along and share your thoughts, and reference material as well.
 
 **[A]**
-  - [AUC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+  - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 
 **[B]**
   - [Bayes Theorm]()
-  - [Bias Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+  - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 **[C]**
-  - [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+  - [Confusion Matrix - TDS](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
   - [CNN]()
-  - [Cross Validation](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
+  - [Cross Validation - TDS](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
 
 **[D]**
   - [Decision Tree]()
@@ -61,7 +61,7 @@ This repository is dedicated to all the important and insightful resources (arti
 **[R]**
   - [Random Forest]()
   - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
-  - [ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+  - [ROC -  TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - [R-Square - StatQuest](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
 
 **[S]**
