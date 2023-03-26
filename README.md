@@ -14,7 +14,9 @@ This repository is dedicated to all the important and insightful resources (arti
   - [Cross Validation - TDS](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
 
 **[D]**
-  - [Decision Tree]()
+  - [Decision Tree - StatQuest]()
+    - [Regression - Decision Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)
+    - [Tree Pruning - Cost Complexity Pruning](https://www.youtube.com/watch?v=D0efHEJsfHo)
 
 **[E]**
   - [EDA]()
