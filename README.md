@@ -6,6 +6,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[B]**
   - [Bayes Theorm]()
+  - [Bagging](https://tinyurl.com/2p9fsjnm)
   - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 **[C]**
