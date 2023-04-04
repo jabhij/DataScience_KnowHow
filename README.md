@@ -72,7 +72,7 @@ This repository is dedicated to all the important and insightful resources (arti
 
 **[S]**
   - [Supervised Machine Learning]()
-  - [SVM]()
+  - [SVM](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
 **[T]**
   - [Test Statistics - CC](https://www.youtube.com/watch?v=QZ7kgmhdIwA)
