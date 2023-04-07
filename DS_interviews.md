@@ -24,6 +24,8 @@
 - T-Test assumptions
 - Non-parametric tests
 - Type 1 & 2 Errors
+- R-Square Value
+- 
 
 𝗣𝗿𝗼𝗯𝗮𝗯𝗶𝗹𝗶𝘁𝘆 & 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
 - The Bayes Theorem
