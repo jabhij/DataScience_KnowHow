@@ -4,7 +4,7 @@
   - Beautiful Soup 
     (Parsing HTML & XML)
     
-  - Scrapy  
+  - [Scrapy](https://docs.scrapy.org/en/latest/)
     (Web Scrapping)
     
   - Requests 
@@ -17,10 +17,10 @@
   - [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/io.html)
     (Data Manipulation & Visualization)
     
-  - NumPy 
+  - [NumPy](https://numpy.org/doc/stable/reference/arrays.html)
     (Wokring with Array)
     
-  - Math 
+  - [Math](https://docs.python.org/3/library/math.html)
     (Hadnling Math Operations)
   
 #### Data Visualization 
