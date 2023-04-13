@@ -1,4 +1,4 @@
-### Libraries
+### Libraries & Frameworks
 
 #### Data Gathering 
   - Beautiful Soup 
@@ -24,13 +24,13 @@
     (Hadnling Math Operations)
   
 #### Data Visualization 
-  - Matplotlib 
+  - [Matplotlib](https://matplotlib.org/stable/gallery/lines_bars_and_markers/index.html)
     (Data Visualization)
     
-  - Plotly 
+  - [Plotly](https://plotly.com/python/)
     (Building APIs)
     
-  - Seaborn 
+  - [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
     (Statistical Data Visualization)
   
 #### Machine Learning & Deep Learning
