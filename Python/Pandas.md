@@ -1,3 +1,6 @@
+# PANDAS
+
+
 ## Pandas | What?
   - Python library to work with datasets.
 
@@ -7,7 +10,7 @@
   
   Ultimately, **relevant data** is crucial in data science. We need to ensure that the data we're working with is **accurate, up-to-date,** and **appropriate** for our analysis for better business insights.
 
-## Pandas | Functions?
+## Pandas | Applications?
  :warning: Tip Alert- **`EV CAM`**
   - **Data Cleaning**
     - It allows to handle missing values, redundency, outliers, etc.
@@ -43,6 +46,8 @@
   - **Data Visualization**
     - It can be integrated with- Matplotlib and Seaborn to create compelling visualizations.
     - For example- creating a histogram in a Pandas DataFrame with a single line of code using Matplotlib.
-
-## Pandas | Applications?
-  - 
+    - For example-  
+      | Function  | Explanation |
+      | ------------- | ------------- |
+      | `plot`  | To plot using dataframe|
+      | `show`  | Representing the plot|
