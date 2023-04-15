@@ -46,7 +46,6 @@
   
   - **Data Visualization**:heavy_minus_sign:
     - It can be integrated with- Matplotlib and Seaborn to create compelling visualizations.
-    - For example- creating a histogram in a Pandas DataFrame with a single line of code using Matplotlib.
     - For example-  
       | Function  | Explanation |
       | ------------- | ------------- |
