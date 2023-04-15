@@ -34,26 +34,26 @@
     (Statistical Data Visualization)
   
 #### Machine Learning & Deep Learning
-  - Scikit Learn 
+  - [Scikit Learn]
     (Machine Learning)
     
   - [Keras](https://scikit-learn.org/stable/)
     (High Level Deep Learning)
     
-  - SciPy 
+  - [SciPy]
     (Scientific Computation)
     
-  - PyTorch 
+  - [PyTorch]
     (Deep Learning Framework)
     
-  - TensorFlow 
+  - [TensorFlow]
     (Machine Learning Framework)
   
 #### Web Frameworks
-  - Django 
+  - [Django]
     (Building Applications)
     
-  - Flask
+  - [Flask]
     (Microweb Framework)
     
   - [Fast API]()
