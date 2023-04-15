@@ -8,12 +8,41 @@
   Ultimately, **relevant data** is crucial in data science. We need to ensure that the data we're working with is **accurate, up-to-date,** and **appropriate** for our analysis for better business insights.
 
 ## Pandas | Functions?
-   (Tip Alert- **EV CAM**)
-  - Data Cleaning
-  - Data Analysis
-  - Data Exploration
-  - Data Manipulation
-  - Data Visualization
+ :warning: Tip Alert- **`EV CAM`**
+  - **Data Cleaning**
+    - It allows to handle missing values, redundency, outliers, etc.
+    - For example-
+      | Function  | Explanation |
+      | ------------- | ------------- |
+      | `fillna()`  | Filling missing values |
+      | `duplicates()`  | Identification of missing values|
+      | `drop_duplicates()` | Deletion of missing values|
+
+  - **Data Analysis**
+    - It offers a wide range of statistical functions for common data analysis tasks.
+    - For example- `min()`, `max()`, `median()` to identify outliers and anomalies in the data.
+
+  - **Data Exploration**
+    - It offers functions for summarization, quantitative values, etc.
+    - For example- 
+      | Function  | Explanation |
+      | ------------- | ------------- |
+      | `describe()`  | Quantitative summary ie- *IQR, min, max,* etc.|
+      | `info()` | Null values, & datatypes|
+      | `value_counts()` | Counts the frequency of each unique value | 
+
+  - **Data Manipulation**
+    - It allows us to manipulation and transformtion (combine data from different sources or add new columns based on existing ones).
+    - For example-  
+      | Function  | Explanation |
+      | ------------- | ------------- |
+      | `filter()`  | Filtering|
+      | `groupby()`  | Grouping of datasets|
+      | `merge()` | Merging of different columns/datasets| 
+  
+  - **Data Visualization**
+    - It can be integrated with- Matplotlib and Seaborn to create compelling visualizations.
+    - For example- creating a histogram in a Pandas DataFrame with a single line of code using Matplotlib.
 
 ## Pandas | Applications?
   - 
