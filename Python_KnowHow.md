@@ -1,16 +1,16 @@
 ### Libraries & Frameworks
 
 #### Data Gathering 
-  - Beautiful Soup 
+  - [Beautiful Soup]
     (Parsing HTML & XML)
     
   - [Scrapy](https://docs.scrapy.org/en/latest/)
     (Web Scrapping)
     
-  - Requests 
+  - [Requests]
     (Making HTTP Requests)
     
-  - Selenium 
+  - [Selenium]
     (Automating Web Browsers)
 
 #### Data Manipulation, Analysis, & Math
