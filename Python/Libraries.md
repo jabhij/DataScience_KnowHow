@@ -14,8 +14,11 @@
     (Automating Web Browsers)
 
 #### Data Manipulation, Analysis, & Math
-  - [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/io.html)
-    (Data Manipulation & Visualization)
+  - Pandas (Data Manipulation & Visualization)
+    - [Quick Overview]()
+    - [General Flow - LDS](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+    - [Compehensive Details - Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/io.html)
+    
     
   - [NumPy](https://numpy.org/doc/stable/reference/arrays.html)
     (Wokring with Array)
