@@ -43,12 +43,17 @@ This repository is dedicated to all the important and insightful resources (arti
     
   - [Learning Rate - TDS](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
-  - [Linear Regression](https://www.youtube.com/watch?v=zD-zN6VkX-A&list=PLJDUkOtqDm6UeH59-jG31Cma-abXLNse_&index=2)
-  - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
-  - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
-  - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
-  - [Logistic Regression (MultiClass) - KrishNaik](https://www.youtube.com/watch?v=V8fS0T_ktn4)
-  - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+  
+  - **Linear Regression**
+    - [Linear Regression](https://www.youtube.com/watch?v=zD-zN6VkX-A&list=PLJDUkOtqDm6UeH59-jG31Cma-abXLNse_&index=2)
+    - [Linear Regression - LDS](https://www.learndatasci.com/tutorials/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/)
+  
+  - **Logistic Regression**
+    - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
+    - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
+    - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
+    - [Logistic Regression (MultiClass) - KrishNaik](https://www.youtube.com/watch?v=V8fS0T_ktn4)
+    - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
