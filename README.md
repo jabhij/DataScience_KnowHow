@@ -23,6 +23,7 @@ This repository is dedicated to all the important and insightful resources (arti
 **[E]**
   - [EDA]()
   - [Encoding]()
+  - [Essential Statistics - LDS](https://www.learndatasci.com/tutorials/data-science-statistics-using-python/)
   - [ETL]()
 
 **[G]**
