@@ -1,6 +1,6 @@
-### Libraries & Frameworks
+## Libraries & Frameworks
 
-#### Data Gathering 
+### Data Gathering 
   - [Beautiful Soup]
     (Parsing HTML & XML)
     
@@ -13,8 +13,8 @@
   - [Selenium]
     (Automating Web Browsers)
 
-#### Data Manipulation, Analysis, & Math
-  - Pandas (Data Manipulation & Visualization)
+### Data Manipulation, Analysis, & Math
+  - **Pandas** (Data Manipulation & Visualization)
     - [Quick Overview](https://github.com/jabhij/DataScience_KnowHow/blob/main/Python/Pandas.md)
     - [General Flow - LDS](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
     - [Compehensive Details - Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/io.html)
@@ -36,7 +36,7 @@
   - [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
     (Statistical Data Visualization)
   
-#### Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
   - [Scikit Learn]
     (Machine Learning)
     
@@ -52,7 +52,7 @@
   - [TensorFlow]
     (Machine Learning Framework)
   
-#### Web Frameworks
+### Web Frameworks
   - [Django]
     (Building Applications)
     
