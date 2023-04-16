@@ -4,6 +4,7 @@
 ## Pandas | What:question:
   - Python library to work with datasets.
   - It provides excellent support for time series data, with functions for working with dates and times, resampling, and rolling calculations.
+  - Pandas utilizes the `NumPy` package as its foundation, incorporating much of NumPy's structure and features. The data in Pandas is frequently employed for statistical analysis in `SciPy`, visualization with `Matplotlib`'s plotting functions, and for implementing machine learning algorithms in `Scikit-learn`.
 
 ## Pandas | Why:question:
   - Pandas allows to analyze big data efficiently, making it easy to derive insights from statistical theories. With Pandas, you can perform various operations like- **filtering, grouping, merging,** and **reshaping data,** making it easy to work with large datasets.
