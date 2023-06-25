@@ -60,6 +60,7 @@ This repository is dedicated to all the important and insightful resources dedic
   - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Multilinear Regression]()
+  - [Types - Machine Learning](https://shorturl.at/gyCMZ)
 
 **[N]**
   - [Naive Bayes Algorithm - KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
