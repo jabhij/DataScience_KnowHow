@@ -1,5 +1,5 @@
 ## Data Science Know-How?
-This repository is dedicated to all the important and insightful resources dedicated to Data Science, Machine Learning (ML), Artificial Intelligence (AI) and all the other related domains. Feel free to come along to share your thoughts, and reference material.
+This repository is dedicated to all the important and insightful resources dedicated to Data Science, Machine Learning (ML), Artificial Intelligence (AI), and all the other related domains. Feel free to come along to share your thoughts and reference material.
 
 **[A]**
   - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
@@ -57,7 +57,7 @@ This repository is dedicated to all the important and insightful resources dedic
   
 **[M]**
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
-  - [Maximum Liklihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
+  - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Multilinear Regression]()
 
@@ -79,6 +79,7 @@ This repository is dedicated to all the important and insightful resources dedic
   - [Residual Standard Error]()
 
 **[S]**
+  - [Statistical Hypothesis](https://shorturl.at/stwJM)
   - [Supervised Machine Learning]()
   - [SVM - TDS](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
