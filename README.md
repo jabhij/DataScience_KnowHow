@@ -5,11 +5,12 @@ This repository is dedicated to all the important and insightful resources dedic
   - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 
 **[B]**
-  - [Bayes Theorm]()
+  - [Bayes Theorm](https://www.freecodecamp.org/news/bayes-rule-explained/)
   - [Bagging](https://tinyurl.com/2p9fsjnm)
   - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 **[C]**
+  - [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
   - [Confusion Matrix - TDS](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
   - [CNN]()
   - [Cross Validation - TDS](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
