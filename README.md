@@ -21,6 +21,7 @@ This repository is dedicated to all the important and insightful resources dedic
     - [Classification Decision Trees](https://www.youtube.com/watch?v=_L39rN6gz7Y)
     - [Regression - Decision Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)
     - [Tree Pruning - Cost Complexity Pruning](https://www.youtube.com/watch?v=D0efHEJsfHo)
+  - [Distribution Function](https://www.analyticsvidhya.com/blog/2021/07/probability-types-of-probability-distribution-functions/)
 
 **[E]**
   - [EDA]()
