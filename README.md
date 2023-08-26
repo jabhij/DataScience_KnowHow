@@ -5,7 +5,7 @@ This repository is dedicated to all the important and insightful resources dedic
   - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 
 **[B]**
-  - Bayes Theorem
+  - **Bayes Theorem**
     - [Bayes Theorem](https://www.freecodecamp.org/news/bayes-rule-explained/)
     - [Bayes Theorem - SQ](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
   - [Bagging](https://tinyurl.com/2p9fsjnm)
