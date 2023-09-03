@@ -77,8 +77,17 @@ This repository is dedicated to all the important and insightful resources dedic
   - [Neural Networks]()
 
 **[P]**
-  - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
-  - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
+  - **P-Value**
+    - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
+    - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
+  - **Probability Distribution Functions**
+    - [Probability Distribution Functions](https://www.analyticsvidhya.com/blog/2021/07/probability-types-of-probability-distribution-functions/)
+    - [Bernoulli Distribution]()
+    - [Binomial Distribution]()
+    - [Poisson Distribution]()
+    - [Chi-Squared Distribution]()
+    - [Normal distribution]()
+   
   - [PCA]()
 
 **[R]**
