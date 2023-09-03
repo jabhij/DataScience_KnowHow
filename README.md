@@ -7,7 +7,7 @@ This repository is dedicated to all the important and insightful resources dedic
 **[B]**
   - **Bayes Theorem**
     - [Bayes Theorem](https://www.freecodecamp.org/news/bayes-rule-explained/)
-    - [Bayes Theorem - SQ](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
+    - [Bayes Theorem - StatQuest](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
   - [Bagging](https://tinyurl.com/2p9fsjnm)
   - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
@@ -34,6 +34,11 @@ This repository is dedicated to all the important and insightful resources dedic
 **[G]**
   - [Gaussian Mixture Model - TDS](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
 
+**[H]**
+  - **Hypothesis Testing**
+    - [Hypothesis Testing - SHT](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/)
+    - [Hypothesis Testing - StatQuest](https://www.youtube.com/watch?v=0oc49DyA3hU)
+    
 **[I]**
   - [IQR - SHT](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
 
@@ -77,7 +82,7 @@ This repository is dedicated to all the important and insightful resources dedic
   - [PCA]()
 
 **[R]**
-  - [Random Forest - Stat Quest]()
+  - [Random Forest - StatQuest]()
   - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
   - [ROC -  TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - [Row Level Security - Microsoft](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls)
