@@ -1,5 +1,6 @@
 ## Data Science Know-How?
-This repository is dedicated to all the important and insightful resources dedicated to Data Science, Machine Learning (ML), Artificial Intelligence (AI), and all the other related domains. Feel free to come along to share your thoughts and reference material.
+This repository is dedicated to all the important and insightful resources dedicated to Data Science, Machine Learning (ML), 
+Artificial Intelligence (AI), and all the other related domains. Feel free to come along to share your thoughts and reference material.
 
 **[A]**
   - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
