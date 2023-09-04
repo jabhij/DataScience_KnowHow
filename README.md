@@ -82,6 +82,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - **P-Value**
     - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
     - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
+      
   - **Probability Distribution Functions**
     - [Probability Distribution Functions](https://www.analyticsvidhya.com/blog/2021/07/probability-types-of-probability-distribution-functions/)
     - [Bernoulli Distribution]()
