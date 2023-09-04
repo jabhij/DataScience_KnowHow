@@ -24,6 +24,8 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
     - [Classification Decision Trees](https://www.youtube.com/watch?v=_L39rN6gz7Y)
     - [Regression - Decision Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)
     - [Tree Pruning - Cost Complexity Pruning](https://www.youtube.com/watch?v=D0efHEJsfHo)
+
+  - [Degree of Freedom - SHT](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/degrees-of-freedom/)
       
 **[E]**
   - [EDA]()
@@ -106,6 +108,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 **[T]**
   - [Test Statistics - CC](https://www.youtube.com/watch?v=QZ7kgmhdIwA)
   - [T-Test - SHT](https://www.statisticshowto.com/probability-and-statistics/t-test/)
+  - [T-Distribution - SHT](https://www.statisticshowto.com/probability-and-statistics/t-distribution/)
   - [TSS - SHT](https://www.statisticshowto.com/residual-sum-squares/)
 
 **[U]**
