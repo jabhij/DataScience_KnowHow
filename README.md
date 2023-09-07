@@ -84,8 +84,9 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
     - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
       
   - **Probability Distribution Functions**
+    - [Statistical Distributions - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/probability-distribution/)
     - [Probability Distribution Functions](https://www.analyticsvidhya.com/blog/2021/07/probability-types-of-probability-distribution-functions/)
-    - [Bernoulli Distribution]()
+    - [Bernoulli Distribution](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/probability-distribution/bernoulli-distribution/)
     - [Binomial Distribution]()
     - [Poisson Distribution]()
     - [Chi-Squared Distribution]()
