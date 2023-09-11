@@ -112,6 +112,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [T-Test - SHT](https://www.statisticshowto.com/probability-and-statistics/t-test/)
   - [T-Distribution - SHT](https://www.statisticshowto.com/probability-and-statistics/t-distribution/)
   - [TSS - SHT](https://www.statisticshowto.com/residual-sum-squares/)
+  - [Type - I & II Errors - Scribbr](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
 
 **[U]**
   - [Underfitting & Overfitting - TDS](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c)
