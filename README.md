@@ -104,6 +104,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 
 **[S]**
   - [Statistical Hypothesis](https://shorturl.at/stwJM)
+  - [Sum of Square: SST, SSR, SSE](https://365datascience.com/tutorials/statistics-tutorials/sum-squares/)
   - [Supervised Machine Learning]()
   - [SVM - TDS](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
