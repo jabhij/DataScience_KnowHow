@@ -71,11 +71,12 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
   - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
-  - [Multilinear Regression]()
-  - [Types - Machine Learning](https://shorturl.at/gyCMZ)
+  - [Machine Learning Types](https://shorturl.at/gyCMZ)
   
   - **[Monte Carlo]**
      - [Monte Carlo Accept–Reject Method](https://panjeh.medium.com/monte-carlo-accept-reject-method-cb6cc2a76840#7f85)
+   
+  - [Multilinear Regression]()
 
 **[N]**
   - [Naive Bayes Algorithm - KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
