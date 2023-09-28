@@ -73,6 +73,8 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Multilinear Regression]()
   - [Types - Machine Learning](https://shorturl.at/gyCMZ)
+  - **[Monte Carlo]**
+     - [Monte Carlo Accept–Reject Method](https://panjeh.medium.com/monte-carlo-accept-reject-method-cb6cc2a76840#7f85)
 
 **[N]**
   - [Naive Bayes Algorithm - KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
