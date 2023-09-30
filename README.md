@@ -68,12 +68,14 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
     - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
   
 **[M]**
-  - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
-  - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
+  - **Maximum Likelihood Estimation**
+    - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
+    - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
+    
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Machine Learning Types](https://shorturl.at/gyCMZ)
   
-  - **[Monte Carlo]**
+  - **Monte Carlo**
      - [Monte Carlo Accept–Reject Method](https://panjeh.medium.com/monte-carlo-accept-reject-method-cb6cc2a76840#7f85)
    
   - [Multilinear Regression]()
