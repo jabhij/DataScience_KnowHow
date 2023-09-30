@@ -79,7 +79,10 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [Multilinear Regression]()
 
 **[N]**
-  - [Naive Bayes Algorithm - KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
+  - **Naive Bayes**
+    - [Naive Bayes Algorithm -KDNuggets](https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html)
+    - [Naive Bayes - SQ](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+
   - [Neural Networks]()
 
 **[P]**
