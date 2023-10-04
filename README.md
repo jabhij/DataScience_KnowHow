@@ -8,7 +8,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 **[B]**
   - **Bayes Theorem**
     - [Bayes Theorem](https://www.freecodecamp.org/news/bayes-rule-explained/)
-    - [Bayes Theorem - StatQuest](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
+    - [Bayes Theorem - SQ](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
   
   - [Bagging](https://tinyurl.com/2p9fsjnm)
 
@@ -43,19 +43,19 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 **[H]**
   - **Hypothesis Testing**
     - [Hypothesis Testing - SHT](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/)
-    - [Hypothesis Testing - StatQuest](https://www.youtube.com/watch?v=0oc49DyA3hU)
+    - [Hypothesis Testing - SQ](https://www.youtube.com/watch?v=0oc49DyA3hU)
     
 **[I]**
   - [IQR - SHT](https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
 
 **[K]**
-  - [KNN - DataCamp](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
+  - [KNN - DC](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
 
 **[L]**
   - **Lasso & Ridge Regression**
-    - [Lasso & Ridge Regression - DataCamp](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
-    - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=9lRv01HDU0s)
-    - [Lasso & Ridge Regression - KrishNaik](https://www.youtube.com/watch?v=vaQxdBEcBzU)
+    - [Lasso & Ridge Regression - DC](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)
+    - [Lasso & Ridge Regression - KN](https://www.youtube.com/watch?v=9lRv01HDU0s)
+    - [Lasso & Ridge Regression - KN](https://www.youtube.com/watch?v=vaQxdBEcBzU)
     
   - [Learning Rate - TDS](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
   - [Linear Discriminant Analysis](https://towardsdatascience.com/linear-discriminant-analysis-explained-f88be6c1e00b)
@@ -66,15 +66,15 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   
   - **Logistic Regression**
     - [Logistic Regression](https://www.datacamp.com/tutorial/logistic-regression-R)
-    - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=L_xBe7MbPwk)
-    - [Logistic Regression - KrishNaik](https://www.youtube.com/watch?v=uFfsSgQgerw)
-    - [Logistic Regression (MultiClass) - KrishNaik](https://www.youtube.com/watch?v=V8fS0T_ktn4)
-    - [Logistic Regression - StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+    - [Logistic Regression - KN](https://www.youtube.com/watch?v=L_xBe7MbPwk)
+    - [Logistic Regression - KN](https://www.youtube.com/watch?v=uFfsSgQgerw)
+    - [Logistic Regression (MultiClass) - KN](https://www.youtube.com/watch?v=V8fS0T_ktn4)
+    - [Logistic Regression - SQ](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
   
 **[M]**
   - **Maximum Likelihood Estimation**
     - [Maximum Liklihood Estimation](https://bit.ly/3JFHxGt)
-    - [Maximum Likelihood Estimation - StatQuest](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
+    - [Maximum Likelihood Estimation - SQ](https://www.youtube.com/watch?v=BfKanl1aSG0&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=3)
     
   - [Mean Square Error - TDS](https://bit.ly/3wSjYmj)
   - [Machine Learning Types](https://shorturl.at/gyCMZ)
@@ -94,7 +94,7 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 **[P]**
   - **P-Value**
     - [P-Value - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)
-    - [P-Value - StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY)
+    - [P-Value - SQ](https://www.youtube.com/watch?v=vemZtEM63GY)
       
   - **Probability Distribution Functions**
     - [Statistical Distributions - SHT](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/probability-distribution/)
@@ -108,15 +108,16 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [PCA]()
 
 **[R]**
-  - [Random Forest - StatQuest]()
+  - [Random Forest - SQ]()
 
   - **Regularization**
     - [Regularization (L2) - SQ](https://www.youtube.com/watch?v=Q81RR3yKn30)
     - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
+    - [Regularization (L1 & L2) - KN](https://www.youtube.com/watch?v=9lRv01HDU0s)
   
   - [ROC -  TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - [Row Level Security - Microsoft](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls)
-  - [R-Square - StatQuest](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
+  - [R-Square - SQ](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
   - [Residual Standard Error]()
 
 **[S]**
