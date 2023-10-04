@@ -109,7 +109,11 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
 
 **[R]**
   - [Random Forest - StatQuest]()
-  - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
+
+  - **Regularization**
+    - [Regularization (L2) - SQ](https://www.youtube.com/watch?v=Q81RR3yKn30)
+    - [Regularization - SHT](https://www.statisticshowto.com/regularization/)
+  
   - [ROC -  TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - [Row Level Security - Microsoft](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-rls)
   - [R-Square - StatQuest](https://www.youtube.com/watch?v=xxFYro8QuXA&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=5)
