@@ -144,5 +144,3 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [Z-Statistic - SHT](https://www.statisticshowto.com/probability-and-statistics/z-score/)
 
 **[]**
-  - []()
-  - []()
