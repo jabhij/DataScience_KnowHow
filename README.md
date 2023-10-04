@@ -9,8 +9,12 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - **Bayes Theorem**
     - [Bayes Theorem](https://www.freecodecamp.org/news/bayes-rule-explained/)
     - [Bayes Theorem - StatQuest](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
+  
   - [Bagging](https://tinyurl.com/2p9fsjnm)
-  - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+
+  - **Bias-Variance Tradeoff**
+    - [Bias-Variance Tradeoff - SQT](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+    - [Bias Variance Tradeoff - TDS](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 **[C]**
   - [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
