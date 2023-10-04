@@ -20,7 +20,11 @@ Artificial Intelligence (AI), and all the other related domains. Feel free to co
   - [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
   - [Confusion Matrix - TDS](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
   - [CNN]()
-  - [Cross Validation - TDS](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
+  
+  - **Cross Validation**
+    - [Cross Validation - TDS](https://towardsdatascience.com/what-is-cross-validation-60c01f9d9e75)
+    - [Cross Validation - KN](https://www.youtube.com/watch?v=7062skdX05Y)
+   
   - [Cumulative Distribution Function]()
 
 **[D]**
