@@ -21,3 +21,26 @@
   25.2  51.0    21.1
 
 
+The conclusions you can draw from the identification of outliers using internally studentized residuals (ri) and externally studentized residuals (ti) depend on the specific data points that are identified as outliers.
+
+Here are the potential conclusions:
+
+Outliers based on ri (Internally Studentized Residuals):
+
+If certain data points have ri values exceeding the threshold, it suggests that these data points have larger-than-expected deviations from the predicted values based on the regression model. This may indicate that these data points have a significant influence on the model's fit.
+
+Such outliers might be influential data points that contribute to the model's overall performance or may indicate potential issues with the model's assumptions.
+
+Further investigation is needed to understand the reasons for these deviations. These outliers may warrant closer scrutiny but should not be automatically removed from the analysis, as they might contain important information.
+
+Outliers based on ti (Externally Studentized Residuals):
+
+Data points with ti values exceeding the threshold are outliers in the sense that they have large deviations when their contributions are excluded from the model's error calculation. These outliers may indicate that specific data points have a strong influence on the model's overall performance.
+
+Like ri-based outliers, these points may be influential and should be examined more closely.
+
+In summary, identifying outliers using ri and ti indicates data points that may have a substantial impact on the regression model. The presence of outliers can have various implications, including model performance, the need for further investigation, and potential issues with the assumptions of the model. The specific actions to be taken (e.g., model refinement or data point exclusion) should be based on the context and the nature of the outliers.
+
+
+
+
