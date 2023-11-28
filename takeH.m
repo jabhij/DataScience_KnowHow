@@ -1,6 +1,6 @@
 % Initialize option pricing parameters
-ScrambleDigitalNet = optPrice(ScrambleIID);
-ScrambleDigitalNet.priceParam.cubMethod = 'scrambledigitalnet'; % Use scrambled digital net
+ScrambleDigitalNet = optPrice(IID);
+ScrambleDigitalNet.priceParam.cubMethod = 'Sobol'; % Use scrambled digital net
 [ScrambleDigitalNetPrice, outScrambleDigitalNet] = genOptPrice(ScrambleDigitalNet);
 
 % Display results
