@@ -3,6 +3,7 @@ This repository is dedicated to all the important and insightful resources dedic
 Artificial Intelligence (AI), and all the other related domains. Feel free to come along to share your thoughts and reference material.
 
 **[A]**
+  - [A/B Testing - YT](https://www.youtube.com/watch?v=X8u6kr4fxXc)
   - [AUC - TDS](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 
 **[B]**
